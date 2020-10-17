@@ -4,14 +4,16 @@ using namespace std;
 
 int main()
 {
-    int num, dx, dy;
+    int num;
+    float graved= 9.8;
     cout<<"eleja el caso que desea usar escribiando del 1 al 4";
     cin>>num;
-    cout<<"ingrese la posicion en x del cañon que va a controlar";
-    cin>>dx;
+    int posx, posy, time;
+
 
     switch(num){
         case(1):{
+        int variables[4]={posx, posy, time};
 
         break;
     }
