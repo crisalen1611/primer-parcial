@@ -18,12 +18,15 @@ int main()
         break;
     }
         case(2):{
+        int variables[4]={posx, posy, time};
         break;
     }
         case(3):{
+        int variables[4]={posx, posy, time};
         break;
     }
         case(4):{
+        int variables[4]={posx, posy, time};
         break;
     }
 
